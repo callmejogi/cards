@@ -1,0 +1,11 @@
+.card{
+    width: 200px;
+    height: 600px;
+    background-color:white;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing: border-box;
+}
+h2+p{
+    background-color: aliceblue;
+}
