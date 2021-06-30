@@ -9,3 +9,6 @@
 h2+p{
     background-color: aliceblue;
 }
+div.wrap{
+    width: 800px;
+}
